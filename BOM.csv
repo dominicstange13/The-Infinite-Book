@@ -1,0 +1,21 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+"4.2"" E-paper display",1,$24.95,https://www.adafruit.com/product/6381,
+3.7v 500mAh LiPo Battery,1,$7.95,https://www.adafruit.com/product/1578,
+Adafruit RP2040 Feather ThinkInk,1,$17.50,https://www.adafruit.com/product/5727,
+Adafruit MicroSD SPI or SDIO Breakout Board,1,$3.50,https://www.adafruit.com/product/4682,
+Copper Wire,1,$13.98,https://www.amazon.com/BNTECHGO-Silicone-Flexible-Stranded-Impedance/dp/B01KCPKSEK/ref=sr_1_4?s=industrial&sr=1-4,"Literally almost any wire will work for this, don't worry!"
+2 pin push buttons,3,$7.49,https://www.walmart.com/ip/44pcs-6x3-5x5mm-Round-Pushbutton-2-Pin-Momentary-DIP-Tactile-Switch/45588157?wmlspartner=wlpa&selectedSellerId=571&veh=seo_fpl&cn=google,Only about 17 cents each
+PLA filament,1,$14.97,https://www.3djake.com/the-filament/pla-circuit-green,The cost of the parts themselves to print is basically nothing
+Adhesive velcro strips,1,$2.49,https://www.corpconnect.com/self-adhesive-velcro-strip-3,"The velcro goes on top of the microcontroller base, beneath the battery and beneath the buttons"
+MicroSD card (16gb),1,$10.00,https://www.walmart.com/ip/Team-16GB-microSDHC-UHS-I-U1-Class-10-Memory-Card-with-Adapter-Speed-Up-to-80MB-s-TUSDH16GCL10U03/5005423566?wmlspartner=wlpa&selectedSellerId=101353918&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&adid=222222222975005423566_101353918_6736816237_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9028728&wl6=&wl7=&wl8=&wl9=pla&wl10=740484096&wl11=online&wl12=5005423566_101353918&veh=sem&semexp=dlp,"16gb is honestly overkill, you can use less and you'll probably be fine as plain text takes up very little space"
+Book safe,1,$18.48,https://www.etsy.com/listing/633148006/blue-hollow-book-safe-book-safe-hollowed?gpla=1&gao=1&=&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-d-home_and_living&utm_custom1=_k_CjwKCAjwxeHWBhBPEiwAiqtQ-UQWmYSld0mgeEifzmuQjuC4hCTop_AOosDbjYGMauXeal4-FozJYhoCok4QAvD_BwE_k_&utm_content=go_22198874551_169648223010_731690539570_pla-303628061699_c__633148006_12768591&utm_custom2=22198874551,
+1kohm resistors,2,$1.25,https://www.sparkfun.com/resistor-1k-ohm-1-4-watt-pth-20-pack-thick-leads.html,Only a few cents each
+Arduino libraries,N/A,N/A,N/A,"SD, Adafruit BusIO, Adafruit EPD, Adafruit GFX Library, GxEPD2"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$122.56,,,
