@@ -1,16 +1,6 @@
 # The Infinite Book
 An e-reader housed inside of an old hollowed out book!  
 ![tuff friggin ereader](ereader.jpeg)
-## Parts
--Adafruit feather ThinkInk RP2040  
--Adafruit microSD breakout board  
--2 pin push buttons (3)  
--PLA filament  
--Book (duh)  
--Adafruit 4.2" e-paper display  
--Wire  
--3.7v 500mAh LiPo battery  
--1kohm resistors (2)
 ## How it Works  
 The e-reader functions are quite simple. To add books, upload them to the micro SD and they will appear once the card is inserted and the device is rebooted. There are left and right navigation buttons, as well as a select button that both selects a book and returns home when inside the book viewer. If none of the buttons are clicked in five minutes, the device will enter sleep mode, in which the display turns off until a button is pressed. You can view a demo of the project [here.](https://vimeo.com/1230736571?share=copy&fl=sv&fe=ci)
 ## How it Was Made
